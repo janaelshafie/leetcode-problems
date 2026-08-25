@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/janaelshafie/leetcode-problems/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/janaelshafie/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/janaelshafie/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1470-shuffle-the-array](https://github.com/janaelshafie/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/janaelshafie/leetcode-problems/tree/master/1472-design-browser-history) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/janaelshafie/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
