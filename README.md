@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0622-design-circular-queue](https://github.com/janaelshafie/leetcode-problems/tree/master/0622-design-circular-queue) |
+| [0682-baseball-game](https://github.com/janaelshafie/leetcode-problems/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/janaelshafie/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1470-shuffle-the-array](https://github.com/janaelshafie/leetcode-problems/tree/master/1470-shuffle-the-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/janaelshafie/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/janaelshafie/leetcode-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/janaelshafie/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
+| [0682-baseball-game](https://github.com/janaelshafie/leetcode-problems/tree/master/0682-baseball-game) |
 | [1472-design-browser-history](https://github.com/janaelshafie/leetcode-problems/tree/master/1472-design-browser-history) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/janaelshafie/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/janaelshafie/leetcode-problems/tree/master/0682-baseball-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/janaelshafie/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Doubly-Linked List
 |  |
