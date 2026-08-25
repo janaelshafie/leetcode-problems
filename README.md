@@ -89,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/janaelshafie/leetcode-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/janaelshafie/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [1472-design-browser-history](https://github.com/janaelshafie/leetcode-problems/tree/master/1472-design-browser-history) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/janaelshafie/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/janaelshafie/leetcode-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/janaelshafie/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/janaelshafie/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/janaelshafie/leetcode-problems/tree/master/0707-design-linked-list) |
