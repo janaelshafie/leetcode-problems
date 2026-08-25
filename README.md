@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/janaelshafie/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Math
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/janaelshafie/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/janaelshafie/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
