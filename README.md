@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/janaelshafie/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/janaelshafie/leetcode-problems/tree/master/1472-design-browser-history) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/janaelshafie/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/janaelshafie/leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/janaelshafie/leetcode-problems/tree/master/0682-baseball-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/janaelshafie/leetcode-problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/janaelshafie/leetcode-problems/tree/master/1929-concatenation-of-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
