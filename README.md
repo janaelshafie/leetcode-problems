@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/janaelshafie/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/janaelshafie/leetcode-problems/tree/master/0206-reverse-linked-list) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0088-merge-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/janaelshafie/leetcode-problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
