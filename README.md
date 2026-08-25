@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/janaelshafie/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/janaelshafie/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -22,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/janaelshafie/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/janaelshafie/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -35,4 +39,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/janaelshafie/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
