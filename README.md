@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/janaelshafie/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/janaelshafie/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/janaelshafie/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/janaelshafie/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/janaelshafie/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -55,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/janaelshafie/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/janaelshafie/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
