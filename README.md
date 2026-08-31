@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/janaelshafie/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/janaelshafie/leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/janaelshafie/leetcode-problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/janaelshafie/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/janaelshafie/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/janaelshafie/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/janaelshafie/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0374-guess-number-higher-or-lower](https://github.com/janaelshafie/leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/janaelshafie/leetcode-problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/janaelshafie/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
