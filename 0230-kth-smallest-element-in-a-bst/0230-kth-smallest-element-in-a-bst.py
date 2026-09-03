@@ -11,15 +11,19 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        res = []
-        def traverse(node):
-            if not node:
-                return
-            traverse(node.left)
-            res.append(node.val)
-            traverse(node.right)
+        stack = []
+        curr = root
+        while stack or curr:
+            while curr:
+                stack.append(curr)
+                curr = curr.left
 
-            return res
+            curr = stack.pop()
+            k -= 1
 
-        return traverse(root)[k - 1]
+            if k == 0:
+                return curr.val
+
+            curr = curr.right
+
         
