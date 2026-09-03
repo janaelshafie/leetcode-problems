@@ -11,15 +11,22 @@ class Solution(object):
         :type inorder: List[int]
         :rtype: Optional[TreeNode]
         """
-        if not preorder:
-            return None
-        
-        root = TreeNode(preorder[0])
-        index = inorder.index(preorder[0])
-        root.left = self.buildTree(preorder[1 : index + 1], inorder[:index])
-        root.right = self.buildTree(preorder[index + 1:], inorder[index + 1:])
+        indices = {val: idx for idx, val in enumerate(inorder)}
+        self.pre_index = 0
 
-        return root
+        def build(left,right):
+            if left > right:
+                return None
+
+            root_val = preorder[self.pre_index]
+            self.pre_index += 1
+            root = TreeNode(root_val)
+            mid = indices[root_val]
+            root.left = build(left, mid - 1)
+            root.right = build(mid + 1, right)
+            return root
+
+        return build(0, len(inorder) - 1)
 
 
 
