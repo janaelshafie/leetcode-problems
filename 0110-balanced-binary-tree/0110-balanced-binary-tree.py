@@ -10,17 +10,18 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: bool
         """
-        def check_height(node):
+        def check(node):
             if not node:
-                return [True , 0]
+                return [True, 0]
             
-            left = check_height(node.left)
-            right = check_height(node.right)
-
+            left = check(node.left)
+            right = check(node.right)
             balanced = left[0] and right[0] and abs(left[1] - right[1]) <= 1
-            return [balanced ,1 + max(left[1],right[1])]
 
-        return check_height(root)[0]
+            return [balanced, 1 + max(left[1], right[1])]
+
+        
+        return check(root)[0]
 
         
 
