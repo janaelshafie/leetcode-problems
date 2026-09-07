@@ -28,7 +28,6 @@ class Solution(object):
             if p_sum(root.right, targetSum, total):
                 return True
 
-            total -= root.val
             return False
 
         return p_sum(root, targetSum, total)
