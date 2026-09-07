@@ -11,24 +11,21 @@ class Solution(object):
         :type targetSum: int
         :rtype: bool
         """
-        def p_sum(root, total):
-            if not root:
-                return False
-            
-            total += root.val
-
-            if not root.left and not root.right:
-                return total == targetSum
-
-            if p_sum(root.left, total):
-                return True
-
-            if p_sum(root.right, total):
-                return True
-
+        if not root:
             return False
+            
+        targetSum -= root.val
 
-        return p_sum(root,0)
+        if not root.left and not root.right:
+            return targetSum == 0
+
+        if self.hasPathSum(root.left, targetSum):
+            return True
+
+        if self.hasPathSum(root.right, targetSum):
+            return True
+
+        return False
 
 
         
