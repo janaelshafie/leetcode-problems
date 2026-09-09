@@ -10,10 +10,7 @@ class Solution:
             if x != y:
                 heapq.heappush_max(stones, y - x)
 
-
-        if stones:
-            return stones[0]
-
-        return 0
+        stones.append(0)
+        return stones[0]
 
         
