@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/janaelshafie/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/janaelshafie/leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/janaelshafie/leetcode-problems/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/janaelshafie/leetcode-problems/tree/master/0705-design-hashset) |
 | [0875-koko-eating-bananas](https://github.com/janaelshafie/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/janaelshafie/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/janaelshafie/leetcode-problems/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/janaelshafie/leetcode-problems/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/janaelshafie/leetcode-problems/tree/master/0622-design-circular-queue) |
+| [0705-design-hashset](https://github.com/janaelshafie/leetcode-problems/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/janaelshafie/leetcode-problems/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/janaelshafie/leetcode-problems/tree/master/1472-design-browser-history) |
 ## Tournament Sort
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/janaelshafie/leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/janaelshafie/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/janaelshafie/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/janaelshafie/leetcode-problems/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/janaelshafie/leetcode-problems/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/janaelshafie/leetcode-problems/tree/master/1472-design-browser-history) |
 ## Queue
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/janaelshafie/leetcode-problems/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/janaelshafie/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/janaelshafie/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0705-design-hashset](https://github.com/janaelshafie/leetcode-problems/tree/master/0705-design-hashset) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -268,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/janaelshafie/leetcode-problems/tree/master/0078-subsets) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/janaelshafie/leetcode-problems/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
