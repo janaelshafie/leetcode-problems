@@ -11,6 +11,3 @@ class Solution(object):
             if x in hm:
                 return [hm[x], i]
             hm[target - x] = i
-            
-
-        
