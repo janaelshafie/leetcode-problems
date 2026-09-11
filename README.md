@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/janaelshafie/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0622-design-circular-queue](https://github.com/janaelshafie/leetcode-problems/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/janaelshafie/leetcode-problems/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/janaelshafie/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/janaelshafie/leetcode-problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/janaelshafie/leetcode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/janaelshafie/leetcode-problems/tree/master/0706-design-hashmap) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/janaelshafie/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/janaelshafie/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/janaelshafie/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/janaelshafie/leetcode-problems/tree/master/0733-flood-fill) |
 ## Interactive
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/janaelshafie/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/janaelshafie/leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/janaelshafie/leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0695-max-area-of-island](https://github.com/janaelshafie/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/janaelshafie/leetcode-problems/tree/master/0733-flood-fill) |
 ## Binary Lifting
 |  |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/janaelshafie/leetcode-problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/janaelshafie/leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/janaelshafie/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/janaelshafie/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/janaelshafie/leetcode-problems/tree/master/0733-flood-fill) |
 ## Backtracking
 |  |
@@ -293,4 +297,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/janaelshafie/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/janaelshafie/leetcode-problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
