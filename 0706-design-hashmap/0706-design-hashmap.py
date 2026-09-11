@@ -20,7 +20,7 @@ class MyHashMap:
         return key % self.capacity
 
     def rehash(self):
-        self.capacity = self.capacity * 2
+        self.capacity = (self.capacity * 2) + 1
         newMap = []
         for i in range(self.capacity):
             newMap.append(None)
