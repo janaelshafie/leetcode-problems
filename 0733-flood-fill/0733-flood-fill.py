@@ -1,19 +1,18 @@
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
         scc = image[sr][sc]
-        self.image = image
         def dfs(sr, sc, color):
-            ROWS, COLS = len(self.image), len(self.image[0])
+            ROWS, COLS = len(image), len(image[0])
 
             if scc == color:
                 return
 
             if (min(sr,sc) < 0 or
             sr == ROWS or sc == COLS or 
-            self.image[sr][sc]!= scc or self.image[sr][sc] == color):
+            image[sr][sc]!= scc):
                 return
 
-            self.image[sr][sc] = color
+            image[sr][sc] = color
 
             dfs(sr + 1, sc, color)
             dfs(sr - 1, sc, color)
@@ -24,6 +23,6 @@ class Solution:
 
         dfs(sr, sc, color)
 
-        return self.image
+        return image
     
         
