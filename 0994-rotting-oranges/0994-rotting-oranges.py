@@ -22,7 +22,7 @@ class Solution:
                     nc = c + dc
 
                     if (min(nr,nc) < 0 or nr >= ROWS or nc >= COLS or
-                        grid[nr][nc] == 0 or grid[nr][nc] == 2):
+                        grid[nr][nc] != 1):
                         continue
 
                     queue.append((nr,nc))
