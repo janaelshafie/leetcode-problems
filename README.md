@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/janaelshafie/leetcode-problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/janaelshafie/leetcode-problems/tree/master/1046-last-stone-weight) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/janaelshafie/leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/janaelshafie/leetcode-problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1470-shuffle-the-array](https://github.com/janaelshafie/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/janaelshafie/leetcode-problems/tree/master/1472-design-browser-history) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/janaelshafie/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/janaelshafie/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/janaelshafie/leetcode-problems/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/janaelshafie/leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Interactive
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/janaelshafie/leetcode-problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/janaelshafie/leetcode-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/janaelshafie/leetcode-problems/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/janaelshafie/leetcode-problems/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Backtracking
 |  |
 | ------- |
