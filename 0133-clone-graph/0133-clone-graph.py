@@ -14,7 +14,8 @@ class Solution:
             return None
 
         clone = {}
-        queue = deque([node])
+        queue = deque()
+        queue.append(node)
 
         clone[node] = Node(node.val)
 
