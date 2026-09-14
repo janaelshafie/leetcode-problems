@@ -1,7 +1,5 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        self.opt_1 = 0
-        self.opt_2 = 0
         cache = {}
         if not nums:
             return 0
