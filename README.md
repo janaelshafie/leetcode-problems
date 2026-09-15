@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/janaelshafie/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/janaelshafie/leetcode-problems/tree/master/0242-valid-anagram) |
+| [1143-longest-common-subsequence](https://github.com/janaelshafie/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/janaelshafie/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/janaelshafie/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/janaelshafie/leetcode-problems/tree/master/0198-house-robber) |
+| [1143-longest-common-subsequence](https://github.com/janaelshafie/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/janaelshafie/leetcode-problems/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/janaelshafie/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
