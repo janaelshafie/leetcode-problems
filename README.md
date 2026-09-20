@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/janaelshafie/leetcode-problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/janaelshafie/leetcode-problems/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/janaelshafie/leetcode-problems/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/janaelshafie/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/janaelshafie/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/janaelshafie/leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/janaelshafie/leetcode-problems/tree/master/0075-sort-colors) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/janaelshafie/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/janaelshafie/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/janaelshafie/leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/janaelshafie/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/janaelshafie/leetcode-problems/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/janaelshafie/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 ## Bracket Sequences
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/janaelshafie/leetcode-problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/janaelshafie/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/janaelshafie/leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/janaelshafie/leetcode-problems/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/janaelshafie/leetcode-problems/tree/master/0146-lru-cache) |
