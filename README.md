@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/janaelshafie/leetcode-problems/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/janaelshafie/leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/janaelshafie/leetcode-problems/tree/master/0338-counting-bits) |
 ## Hash Function
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/janaelshafie/leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/janaelshafie/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/janaelshafie/leetcode-problems/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/janaelshafie/leetcode-problems/tree/master/0338-counting-bits) |
 | [1143-longest-common-subsequence](https://github.com/janaelshafie/leetcode-problems/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
