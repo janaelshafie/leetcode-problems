@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/janaelshafie/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/janaelshafie/leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/janaelshafie/leetcode-problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/janaelshafie/leetcode-problems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/janaelshafie/leetcode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/janaelshafie/leetcode-problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janaelshafie/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/janaelshafie/leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/janaelshafie/leetcode-problems/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/janaelshafie/leetcode-problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/janaelshafie/leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/janaelshafie/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/janaelshafie/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
